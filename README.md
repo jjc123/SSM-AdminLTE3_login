@@ -1,2 +1,2 @@
 # SSM-AdminLTE3_login
-SSM框架+AdminLTE3前端登陆模板实现一个简单的Token验证
+SSM框架+AdminLTE3+JqGrid实现Token验证和分页查询
